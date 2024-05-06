@@ -1,0 +1,66 @@
+{
+  "toko": {
+    "nama": "Toko Buku",
+    "alamat": "Jalann Raya Bojongsoang",
+    "kota": "Bandung",
+    "jam_buka": "08:00 - 22:00 WIB",
+    "telepon": "+62 21 22222222"
+  },
+  "buku": [
+    {
+      "id": 1,
+      "judul": "Bumi Manusia",
+      "penulis": "Pramoedya Ananta Toer",
+      "penerbit": "Lentera Pustaka",
+      "tahun_terbit": 1985,
+      "genre": "Fiksi",
+      "harga": 60000,
+      "stok": 10,
+      "deskripsi": "Novel klasik Indonesia yang menceritakan kisah perjuangan kemerdekaan dan kolonialisme."
+    },
+    {
+      "id": 2,
+      "judul": "Laskar Pelangi",
+      "penulis": "Andrea Hirata",
+      "penerbit": "Bentang Pustaka",
+      "tahun_terbit": 2008,
+      "genre": "Fiksi",
+      "harga": 50000,
+      "stok": 15,
+      "deskripsi": "Novel inspiratif tentang persahabatan dan semangat anak-anak di Belitung."
+    },
+    {
+      "id": 3,
+      "judul": "Sapiens: Riwayat Singkat Umat Manusia",
+      "penulis": "Yuval Noah Harari",
+      "penerbit": "Gramedia Pustaka Utama",
+      "tahun_terbit": 2011,
+      "genre": "Non-fiksi",
+      "harga": 90000,
+      "stok": 8,
+      "deskripsi": "Buku sejarah yang mengisahkan perjalanan evolusi dan peradaban manusia."
+    },
+    {
+      "id": 4,
+      "judul": "Atomic Habits: Small Changes, Remarkable Results",
+      "penulis": "James Clear",
+      "penerbit": "Gramedia Pustaka Utama",
+      "tahun_terbit": 2018,
+      "genre": "Non-fiksi",
+      "harga": 80000,
+      "stok": 12,
+      "deskripsi": "Buku self-help tentang membangun kebiasaan baik dan mencapai tujuan."
+    },
+    {
+      "id": 5,
+      "judul": "The Subtle Art of Not Giving a F*ck",
+      "penulis": "Mark Manson",
+      "penerbit": "Gramedia Pustaka Utama",
+      "tahun_terbit": 2017,
+      "genre": "Non-fiksi",
+      "harga": 70000,
+      "stok": 5,
+      "deskripsi": "Buku self-help tentang hidup lebih bahagia dengan melepaskan hal-hal yang tidak penting."
+    }
+  ]
+}
